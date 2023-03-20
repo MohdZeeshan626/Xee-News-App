@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity implements CategoryRVAdapter
                 new SwipeRefreshLayout.OnRefreshListener() {
                     @Override
                     public void onRefresh() {
+                        /// second
 
                         // Your code goes here
                         // In this code, we are just
